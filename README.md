@@ -1,7 +1,6 @@
 # ble-bluetooth-mouse
 
-# ESP32 BLE Gyro Mouse 🖱️
-
+# ESP32 BLE Gyro Mouse
 This project turns an ESP32 and an MPU6050 into a wireless Bluetooth mouse. Gyroscope motion controls the cursor, and two push buttons perform left/right clicks.
 
 # Features
